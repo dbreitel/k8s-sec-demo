@@ -1,0 +1,32 @@
+[
+  {
+    "user": "johndoe",
+    "password": "Aq12!dXz",
+    "email": "johndoe@example.com",
+    "id": 101
+  },
+  {
+    "user": "janesmith",
+    "password": "Zx89@pLm",
+    "email": "janesmith@example.com",
+    "id": 102
+  },
+  {
+    "user": "charliewells",
+    "password": "Bv76#yRt",
+    "email": "charliewells@example.com",
+    "id": 103
+  },
+  {
+    "user": "emilybrown",
+    "password": "Pq34$zMn",
+    "email": "emilybrown@example.com",
+    "id": 104
+  },
+  {
+    "user": "danielscott",
+    "password": "Xy56&vWp",
+    "email": "danielscott@example.com",
+    "id": 105
+  }
+]
